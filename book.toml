@@ -1,0 +1,5 @@
+[book]
+authors = []
+language = "ru"
+multilingual = false
+src = "src"
