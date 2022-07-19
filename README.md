@@ -7,7 +7,7 @@
 
 ## Подписаться
 
-Telegram канал: https://t.me/druzhcom
+Telegram канал со свежим и уникальным по web3: https://t.me/druzhcom
 
 ## Поддержать Перевод
 
