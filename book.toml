@@ -1,5 +1,7 @@
 [book]
-authors = []
+title = "Освоение Ethereum"
+authors = [""]
+description = "Руководство по Ethereum и разработке смарт-контрактов"
 language = "ru"
 multilingual = false
 src = "src"
